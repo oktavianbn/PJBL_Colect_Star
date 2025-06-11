@@ -9,9 +9,9 @@
 
 ## 🕹️ Fitur
 
-- Kontrol keyboard: ← → untuk bergerak
+- Kontrol keyboard: pg up, left & right untuk bergerak
 - Skor bertambah saat bintang dikumpulkan
-- Game over jika jatuh dari platform melayang
+- Game over jika jatuh dari platform melayang (harap reload untuk memulai ulang permainan)
 
 ---
 
